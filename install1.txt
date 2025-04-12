@@ -1,0 +1,31 @@
+pip install cryptography==39.0.0
+
+use_pure=true
+
+
+mydb = mysql.connector.connect(
+  host="localhost",
+  user="root",
+  password="",
+  use_pure=True,
+  charset="utf8",
+  database="animal_rep_cam"
+
+
+
+pip install cryptography==36.0.2
+
+ch00830963@techmahindra.com
+
+dipa@livecjobs.com
+
+
+      cursor = mydb.cursor(buffered=True)
+
+
+
+
+
+
+
+https://virtualdesk.co.in/leaveapp/login/index.php

@@ -1,0 +1,140 @@
+
+
+
+
+
+
+
+
+
+pip install mysql-connector
+python -m pip install --upgrade pip
+
+pip install flask 
+pip install seaborn
+pip install imagehash
+pip install opencv-python 
+pip install scikit-image
+pip install plotly
+
+pip install opencv-contrib-python
+pip install opencv-contrib-python==4.7.0.68
+
+pip install opencv-contrib-python --user
+pip install face-recognizer
+pip install aspose-words
+pip install deepface
+pip install docx2txt
+pip install gensim==3.7.1
+pip install pyttsx3
+pip install face-recognition
+pip install face_recognition
+pip install opencv-contrib-python attrs mediapipe --user
+
+
+pip install mediapipe==0.8.7.1
+
+
+
+pip install pytesseract
+
+pip install imutils==0.5.3
+
+python_vlc
+pip install  pycryptodome
+
+pip install  msvc-runtime
+
+
+pip install   pypiwin32
+
+
+pip install flask-socketio==5.3.4
+
+
+ try:
+        ff=open("det.txt","w")
+        ff.write("1")
+        ff.close()
+    except:
+        print("error..")
+
+
+
+
+	https://gamingzone.in.net/register.php
+
+http://19hourit.com/register.php
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://iotcloud.co.in/packet_priority/userhome.php
+
+
+
+
+C:\Users\chris\Music> pip install fitz PuMuPDF python-docx pdf2image
+
+C:\Users\chris\Music>pip install fitz
+
+PyMuPDF
+
+spire
+spire.doc
+
+
+
+
+
+
+
+Flask==1.0.2
+Pillow==5.4.1
+gevent==1.4.0
+gunicorn==19.9.0
+scikit-learn==1.2.2
+numpy==1.23.5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+C499 B.Suganth 8807654543
+2021062037@selvamtech.edu.in CS SE52 Crime HotSpot 4800 / 4800 13-03-2025
+
+C64 A.L.Poojashri 7010478088
+alps51033@gmail.com CS SE8 Crime HotSpot 5000 / 5000 23-01-2025
+

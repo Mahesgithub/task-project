@@ -1,0 +1,64 @@
+--------Basic-Package -------    
+
+pip install flask
+python -m pip install --upgrade pip
+pip install mysql-connector opencv-python matplotlib pandas 
+pip install scikit-learn scikit-image gensim==3.7.1 wordcloud 
+pip install seaborn chart-studio plotly aspose-words  
+pip instal imagehash
+
+---Virutual ---hr--
+pip install imutils imagehash deepface docx2txt pyttsx3
+
+ -----With Camera------
+
+pip install opencv-contrib-python
+pip install face-recognizer
+
+------Scheme Bot-----
+
+pip uninstall matplotlib
+pip install matplotlib
+pip install numpy pillow pyparsing
+pip install --upgrade matplotlib numpy
+
+-----Cycber Vaccine---
+
+pip uninstall matplotlib==3.5.3
+pip install matplotlib==3.0.3 
+
+---Depression Bot -- Package ---
+
+
+------Honeypot System --
+
+cryptograpy
+browser_history
+psutil
+
+-----SPY USB----
+----exception----Package---
+pip install fitz PyMuPDF python-docx pdf2image 
+pip install PyPDF2 comtypes pytesseract reportlab browser_history 
+pip install pypiwin32 pywintypes
+pip install --forcere-install --upgrade pywin32
+pip install PyMuPDF==1.16.14
+pip install PyMuPDF>=1.23.16 
+pip install wmi
+
+cryptography==37.0.3
+-----frontent----install----
+pip uninstall fitz
+pip uninstall PyMuPDF
+pip install spire
+pip install spire.doc
+pip install bs4
+
+
+-------Crypto-----------
+pip install pycryptodome
+
+
+
+
+pypiwin32
